@@ -1,11 +1,11 @@
-## Fernando Simões
+## Bem-vindo ao meu perfil, me chamo Fernando Simões, sou desenvolvedor e apaixonado pela área de TI
 
 <div style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoasimoes&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoasimoes&layout=compact&theme=dark">
 </div>
 
-##
+#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,4 +20,4 @@
   <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-##
+#
